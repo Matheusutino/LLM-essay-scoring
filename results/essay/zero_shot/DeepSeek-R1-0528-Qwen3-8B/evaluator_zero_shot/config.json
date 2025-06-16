@@ -1,0 +1,9 @@
+{
+    "essay_path": "dataset/testing.csv",
+    "prompts_path": "dataset/prompts.csv",
+    "model_name": "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B",
+    "prompt_name": "evaluator_zero_shot",
+    "llm_provider": "chutes",
+    "temperature": 0.0,
+    "max_output_tokens": 8000
+}

@@ -1,0 +1,9 @@
+{
+    "essay_path": "dataset/testing.csv",
+    "prompts_path": "dataset/prompts.csv",
+    "model_name": "tngtech/DeepSeek-R1T-Chimera",
+    "prompt_name": "evaluator_zero_shot",
+    "llm_provider": "chutes",
+    "temperature": 0.0,
+    "max_output_tokens": 8000
+}

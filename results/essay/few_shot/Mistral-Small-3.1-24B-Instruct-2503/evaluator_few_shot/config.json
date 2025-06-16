@@ -1,0 +1,9 @@
+{
+    "essay_path": "dataset/testing.csv",
+    "prompts_path": "dataset/prompts.csv",
+    "model_name": "chutesai/Mistral-Small-3.1-24B-Instruct-2503",
+    "prompt_name": "evaluator_few_shot",
+    "llm_provider": "chutes",
+    "temperature": 0.0,
+    "max_output_tokens": 8000
+}

@@ -1,0 +1,8 @@
+{
+    "prompts_path": "dataset/prompts.csv",
+    "model_name": "Qwen/Qwen3-8B",
+    "prompt_name": "writer_zero_shot",
+    "llm_provider": "chutes",
+    "temperature": 0.0,
+    "max_output_tokens": 8000
+}

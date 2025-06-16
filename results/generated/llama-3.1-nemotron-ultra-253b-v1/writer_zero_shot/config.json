@@ -1,0 +1,8 @@
+{
+    "prompts_path": "dataset/prompts.csv",
+    "model_name": "nvidia/llama-3.1-nemotron-ultra-253b-v1",
+    "prompt_name": "writer_zero_shot",
+    "llm_provider": "nvidia",
+    "temperature": 0.0,
+    "max_output_tokens": 8000
+}
