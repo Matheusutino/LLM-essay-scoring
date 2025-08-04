@@ -1,6 +1,6 @@
 # From Zero-shot to Self-generated References: Leveraging LLMs for Scoring ENEM Essays
 
-This repository contains the source code, prompts, and experimental configurations for the paper "From Zero-shot to Self-generated References: Leveraging LLMs for Scoring ENEM Essays", submitted to STIL 2025.
+This repository contains the source code, prompts, and experimental configurations for the paper "From Zero-shot to Self-generated References: Leveraging LLMs for Scoring ENEM Essays", approved to STIL 2025.
 
 ## 🧠 Overview
 
@@ -62,4 +62,4 @@ This project is licensed under the MIT License.
 ## 📬 Contact
 
 For questions or collaboration inquiries, please contact:  
-[REMOVED FOR DOUBLE BLIND REVIEW]
+matheusutino@usp.br
