@@ -53,7 +53,22 @@ The corpus is split into:
 
 ## 🔬 Citation
 
-Coming soon (after peer review).
+```bibtex
+@inproceedings{utino2025zero,
+ author = {Matheus Utino and Paulo Mann},
+ title = { From Zero-shot to Self-generated References: Leveraging LLMs for Scoring ENEM Essays},
+ booktitle = {Anais do XVI Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana},
+ location = {Fortaleza/CE},
+ year = {2025},
+ keywords = {},
+ issn = {0000-0000},
+ pages = {467--477},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/stil.2025.37847},
+ url = {https://sol.sbc.org.br/index.php/stil/article/view/37847}
+}
+```
 
 ## 📄 License
 
